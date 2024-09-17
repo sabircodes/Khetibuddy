@@ -2,6 +2,14 @@
 
 Hi! My name is **Sabir Akhtar**
 
+# HOMEPAGE
+![image](https://github.com/user-attachments/assets/7f2f8481-00fe-4303-a780-dfbbcd1fe3f7)
+
+# PRODUCT PAGE
+![image](https://github.com/user-attachments/assets/8a75f436-80d9-406e-86d2-e7cafcc433e4)
+
+
+
 
 # Install Dependencies
 
