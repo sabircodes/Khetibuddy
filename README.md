@@ -1,6 +1,6 @@
-# MERN E-COMMERCE TUTORIAL
+# KHETIBUDDY
 
-Hi! My name is **Sabir Akhtar**, I have created this tutorial to teach MERN Stack for free on YouTube.
+Hi! My name is **Sabir Akhtar**
 
 
 # Install Dependencies
